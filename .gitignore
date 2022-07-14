@@ -1,3 +1,11 @@
+# Folders
+*\bin
+
+# Documents
+*.pdf
+*.png
+*.svg
+
 # Prerequisites
 *.d
 
